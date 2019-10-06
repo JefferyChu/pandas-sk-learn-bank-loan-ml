@@ -1,0 +1,4 @@
+# Ignore Jupyter and Spark system directories
+spark-warehouse
+.ipynb_checkpoints
+
